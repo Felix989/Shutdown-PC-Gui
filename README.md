@@ -17,3 +17,8 @@ The source code can be found next to the exe files. If you have any question, pl
 
 Thanks for trying out my program!:D
 ~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+
+
+
+!!! DO NOT RENAME THE EXE FILES OR THE PROGRAM WILL MISBEHAVE!!!
